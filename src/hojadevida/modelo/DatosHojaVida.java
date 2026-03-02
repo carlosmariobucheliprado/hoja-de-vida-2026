@@ -22,10 +22,10 @@ public class DatosHojaVida {
                 "Apoya funciones de administración de redes de datos.\r\n" + //
                 "Tiene la capacidad crítica y creativa, para liderar procesos de sistematización en diferentes sectores públicos y privados.\r\n" + //
                 "Posee la actitud y capacidad para el trabajo en equipo que le permite relacionarse de manera efectiva con su entorno laboral.\n(Escribe aquí 2-3 oraciones sobre ti, tus intereses y objetivos profesionales.)";
-    private String experiencia = "2025\n[Tutor en Fusion 360] - [Seminario Sense 2025]\n[Popayan]"+"2026\n[Tutor en Robotica] - [Colegio San Nicolás]\n[Popayan]";
-    private String educacion = "2019-2021\n[Ingeniería Electrónica y Telecomunicaciones] - [Universidad Del Cauca]\n[Popayan]"+"\n2021-2026\n[Desarrollo de Software] - [Universidad Colegio Mayor Del Cauca]\n[Popayan]";
+    private String experiencia = "2025\n[Tutor en Fusion 360] - [Seminario Sense 2025]\n[Popayan]\n"+"2026\n[Tutor en Robotica] - [Colegio San Nicolás]\n[Popayan]";
+    private String educacion = "2019-2024\n[Ingeniería Electrónica y Telecomunicaciones] - [Universidad Del Cauca]\n[Popayan]"+"\n2024-2026\n[Desarrollo de Software] - [Universidad Colegio Mayor Del Cauca]\n[Popayan]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [BeautySoft] - [Sistema de facturación en Negocios de belleza.]"+"\n[Speed Racers] - [Video Juego de Carreraas sobre formula uno.]";
+    private String proyectos = "• [BeautySoft] - [Sistema de facturación en Negocios de belleza.]"+"\n• [Speed Racers] - [Video Juego de Carreraas sobre formula uno.]";
     // =================================================
 
     public String getNombre() { return nombre; }
