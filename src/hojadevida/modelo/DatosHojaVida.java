@@ -25,7 +25,7 @@ public class DatosHojaVida {
     private String experiencia = "2025\n[Tutor en Fusion 360] - [Seminario Sense 2025]\n[Popayan]"+"2026\n[Tutor en Robotica] - [Colegio San Nicolás]\n[Popayan]";
     private String educacion = "2019-2021\n[Ingeniería Electrónica y Telecomunicaciones] - [Universidad Del Cauca]\n[Popayan]"+"\n2021-2026\n[Desarrollo de Software] - [Universidad Colegio Mayor Del Cauca]\n[Popayan]";
     private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
-    private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
+    private String proyectos = "• [BeautySoft] - [Sistema de facturación en Negocios de belleza.]"+"\n[Speed Racers] - [Video Juego de Carreraas sobre formula uno.]";
     // =================================================
 
     public String getNombre() { return nombre; }
